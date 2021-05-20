@@ -1,1 +1,1 @@
-# easypaisa-api
+# Easypaisa Payment Gateway custom code PHP
